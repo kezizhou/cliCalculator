@@ -18,10 +18,13 @@ Or install it yourself as:
     $ gem install cliCalculator
 
 ## Usage
+
+```
 Usage: cliCalculator [options] [argument]
     -c, --calculate 'COMMMAND'       Calculates the result of argument
     -v, --version                    Prints version
     -h, --help                       Prints help guide
+```
 
 ## Development
 
