@@ -71,6 +71,7 @@ class Calculations
             raise MissingParenthesis
         end
 
+        binding.pry
         return input
     end
 
