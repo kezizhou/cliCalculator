@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.executables   = ["cliCalculator"]
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "bundler", "~> 2.1.4"
+  spec.add_dependency "bundler", "~> 2.2.10"
   spec.add_dependency "rake", "~> 12.0"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "pry", "~> 0.12.2"
